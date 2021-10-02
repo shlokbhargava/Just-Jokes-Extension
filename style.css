@@ -1,0 +1,16 @@
+body {
+    width: 300px;
+    height: auto;
+    background-color: #fbfbfb;
+    font-family: 'Vollkorn', serif;
+}
+
+.text-center {
+    text-align: center!important;
+}
+
+#text-area {    
+    font-size: 1.3rem;
+    color: #4f4f4f;
+    padding: 0px 10px;
+}
